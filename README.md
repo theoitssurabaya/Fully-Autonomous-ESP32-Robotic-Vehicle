@@ -45,3 +45,7 @@ This project is a firmware implementation for an autonomous 4-wheel drive (4WD) 
 2. Open the project in PlatformIO or Arduino IDE.
 3. Build and upload the firmware to your ESP32.
 4. Once powered on, the robot will automatically begin navigating its environment.
+
+## Documentation
+<img width="960" height="1280" alt="fully-autonomous-esp32-robotic-vehicl" src="https://github.com/user-attachments/assets/41707e02-6543-424c-8e54-65d0283a7148" />
+
